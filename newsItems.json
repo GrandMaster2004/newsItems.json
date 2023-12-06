@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Holidays and Academic Calander MMMUT Gorakhpur",
+    "description": "Academic Calender",
+    "link": "https://www.mmmut.xyz/holidays/holidays.html",
+    "buttonText": "View."
+  },
+  {
+    "title": "Time Table section",
+    "description": "Time Table",
+    "link": "./timetable/timetable.html",
+    "buttonText": "View."
+  },
+  {
+    "title": "Previous Year Cutoff (2021 , 2022 , 2023) ",
+    "description": "MMMUT Cutoff",
+    "link": "http://www.mmmut.xyz/cutoff/cutoff.html",
+    "buttonText": "Explore"
+  },
+  {
+    "title": "Fee Structure Of MMMUT (B.tech,BBA,MCA,B-Pharma,MBA,M.tech)",
+    "description": "Fee Structure MMMUT",
+    "link": "http://www.mmmut.xyz/Fee/feestructure.html",
+    "buttonText": "VIEW."
+  },
+  {
+    "title": "Previous Year Placement Bronchure MMMUT (2021,2022)",
+    "description": "Placement Bronchure",
+    "link": "https://www.mmmut.xyz/Placement/placement.html",
+    "buttonText": "View."
+  },
+  {
+    "title": "Powering Progress: The International Conference on Energy, Functional Materials and Photonics on March 1-2, 2024",
+    "description": "Notice",
+    "link": "https://www.ppicefp.in/",
+    "buttonText": "Open"
+  },
+  {
+    "title": "Office Order Dean ",
+    "description": "MMMUT",
+    "link": "http://www.mmmut.ac.in/News_content/03553news_12042023.pdf",
+    "buttonText": "View."
+  },
+  {
+    "title": "RESULT OF ALL SEMESTERS",
+    "description": "Username: student & Password: student",
+    "link": "http://172.16.1.250:8081/jasperserver/login.html",
+    "buttonText": "More.."
+  },
+  {
+    "title": "Previous Year Cutoff (2021 , 2022 , 2023) ",
+    "description": "MMMUT Cutoff",
+    "link": "http://www.mmmut.xyz/cutoff/cutoff.html",
+    "buttonText": "Explore"
+  },
+  {
+    "title": "Fee Structure Of MMMUT (B.tech,BBA,MCA,B-Pharma,MBA,M.tech)",
+    "description": "Fee Structure MMMUT",
+    "link": "http://www.mmmut.xyz/fee/fee.html",
+    "buttonText": "VIEW."
+  },
+  {
+    "title": "Previous Year Placement Bronchure MMMUT (2021,2022)",
+    "description": "Placement Bronchure",
+    "link": "https://www.mmmut.xyz/placement/placement.html",
+    "buttonText": "View."
+  },
+  {
+    "title": "Anti-Ragging Duty List",
+    "description": "NOTICE",
+    "link": "http://www.mmmut.ac.in/News_content/14040news_09182023.pdf",
+    "buttonText": "More.."
+  },
+  {
+    "title": "Final Result of written exam for Assistant Professor (Contractual)",
+    "description": "on 16th September 2023",
+    "link": "http://www.mmmut.ac.in/News_content/00003news_08022023.pdf",
+    "buttonText": "More.."
+  }
+]
